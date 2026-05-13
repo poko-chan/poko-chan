@@ -1,1 +1,1 @@
-<img src="https://komarev.com/ghpvc/?username={username}" />
+<img src="https://komarev.com/ghpvc/?username=poko-chan" />
