@@ -1,19 +1,11 @@
 # <p align="center">✈️ Welcome to pokochan's Terminal 🌐</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+pokochan!+👋;Welcome+to+my+GitHub+profile!;Powered+by+Google+and+ANA+love...;Flying+high+into+the+tech+world!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+pokochan!+👋;Welcome+to+my+GitHub+profile!;[STATUS]+Now+Building+an+SNS+Tool...+🛠️;[LEARNING]+HTML5+%2F+CSS3+%2F+JavaScript+⚡;[FAVORITE]+ANA+✈️+%26+Google+🌐;Flying+high+into+the+tech+world!+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5MTY5OHR6N3p2dzJ1dXZscXdwNjBnbTRidWdzam0xeHlsdjNoZSZlcD1iX2dfc2luZ2xlX2dfYW4&rid=giphy.gif" width="400" alt="Airplane Coding Animation">
-</p>
-
----
-
-## 🛰️ FLIGHT STATUS (現在の開発状況)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=800&color=34A853&center=true&vCenter=true&width=650&lines=%5BSTATUS%5D+Now+Building+an+SNS+Tool...+🛠️;%5BLEARNING%5D+HTML5+%2F+CSS3+%2F+JavaScript+⚡;%5BFAVORITE%5D+ANA+✈️+%26+Google+🌐+%E2%9D%A4%EF%B8%8F;%5BGOAL%5D+To+be+a+Super+Developer!+👨%E2%80%8D💻" alt="Status Typing SVG" />
 </p>
 
 ---
@@ -29,7 +21,7 @@
 
 ---
 
-## 🌐 GOOGLE & ANA COLORS (お気に入りカラー)
+## 🌐 GOOGLE & ANA COLORS (お気に入りブランド)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Blue-4285F4?style=flat-square" />
