@@ -1,5 +1,5 @@
 <p align="right">
-  <b>🇯🇵 日本語</b> | <a href="./readme.en.md">🇺🇸 English</a>
+  <b>🇺🇸 English</b> | <a href="./readme.ja.md">🇯🇵 日本語</a> | <a href="./readme.zh.md">🇨🇳 简体中文</a> | <a href="./readme.ko.md">🇰🇷 한국어</a>
 </p>
 
 # 👋 Hi, I'm pokochan!
@@ -15,9 +15,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 **現在進行中のプロジェクト:** SNSツールの開発 📱
-- 🌱 **勉強中:** HTML5, CSS3, JavaScript (ES6+) ✨
-- 💙 **大好きなブランド:** **ANA** ✈️ と **Google** 🌐 の大ファンです！
+- 🔭 **Current Project:** Building an SNS Tool 📱
+- 🌱 **Learning:** HTML5, CSS3, and JavaScript (ES6+) ✨
+- 💙 **Favorite Brands:** Big fan of **ANA** ✈️ & **Google** 🌐
 
 ---
 
@@ -28,6 +28,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode" alt="My Skills" />
   </a>
 </p>
+
+---
+
+## ⌨️ My Favorite Shortcuts & Commands
+- Save Code: <kbd>Ctrl</kbd> + <kbd>S</kbd>
+- Terminal: <kbd>git commit -m "Flying High!"</kbd>
 
 ---
 
