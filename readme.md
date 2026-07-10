@@ -26,15 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poko-chan&show_icons=true&theme=tokyonight" alt="poko-chan's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poko-chan&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
