@@ -30,7 +30,7 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=poko-chan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poko-chan&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poko-chan&theme=tokyonight" alt="GitHub Streak" height="150" />
 </p>
 
