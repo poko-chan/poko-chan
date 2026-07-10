@@ -1,5 +1,5 @@
 <p align="right">
-  <b>🇯🇵 日本語</b> | <a href="./README.en.md">🇺🇸 English</a>
+  <b>🇯🇵 日本語</b> | <a href="./readme.en.md">🇺🇸 English</a>
 </p>
 
 # 👋 Hi, I'm pokochan!
