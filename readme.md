@@ -10,23 +10,33 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Building an SNS Tool**
-- 🌱 I’m currently learning **HTML5, CSS3, and JavaScript (ES6+)**
-- 💙 Favorite Brands: Big fan of **ANA** & **Google** ---
+## 🚀 About Me
+- 🔭 **Current Project:** Building an SNS Tool 📱
+- 🌱 **Learning:** HTML5, CSS3, and JavaScript (ES6+) ✨
+- 💙 **Favorite Brands:** Big fan of **ANA** ✈️ & **Google** 🌐
 
-### 🛠️ Tech Stack & Learning
+---
+
+## 🛠️ Tech Stack & Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📫 Connect with me
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=あなたのGitHubユーザー名&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=あなたのGitHubユーザー名&theme=tokyonight" alt="GitHub Streak" height="150" />
+</p>
+
+---
+
+## 📫 Connect with me
 
 <p align="left">
   <a href="https://qiita.com/poko_chan" target="_blank">
