@@ -46,10 +46,3 @@
     <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
 </p>
-
----
-
-## 👁️ Visitors
-<p align="left">
-  <img src="https://profile-counter.glitch.me/poko-chan/count.svg" alt="Visitor Counter" />
-</p>
