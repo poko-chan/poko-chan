@@ -28,7 +28,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity & Streak
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poko-chan&theme=tokyonight" alt="Activity Graph" width="100%" />
+</p>
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poko-chan&theme=tokyonight" alt="GitHub Streak" height="150" />
 </p>
