@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5MTY5OHR6N3p2dzJ1dXZscXdwNjBnbTRidWdzam0xeHlsdjNoZSZlcD1iX2dfc2luZ2xlX2dfYW4&rid=giphy.gif" width="350" alt="Airplane Coding Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5MTY5OHR6N3p2dzJ1dXZscXdwNjBnbTRidWdzam0xeHlsdjNoZSZlcD1iX2dfc2luZ2xlX2dfYW4/giphy.gif" width="350" alt="Airplane Coding Animation">
 </p>
 
 ---
