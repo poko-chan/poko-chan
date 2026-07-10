@@ -10,10 +10,28 @@
 
 ---
 
+## 🌐 Language / 言語切り替え
+<details>
+<summary><b>🇯🇵 日本語（Japanese）をクリックして展開</b></summary>
+<br>
+
+### 🗺️ フライトレーダー (自己紹介)
+- 🔭 **現在の目的地**: SNSツールを爆速開発中！ 🛠️
+- 🌱 **スキルアップ中**: HTML5 / CSS3 / JavaScript (ES6+) のレベル上げ
+- 💙 **パッション**: **ANA** ✈️ のフライトと、**Google** 🌐 のテクノロジーが大好き！
+
+</details>
+
+<details>
+<summary><b>🇺🇸 English (英語) Click to Expand</b></summary>
+<br>
+
 ### 🗺️ Flight Radar (About Me)
-- 🔭 **Current Destination**: Building an SNS Tool (話題のSNSツールを爆速開発中！ 🛠️)
+- 🔭 **Current Destination**: Building an innovative SNS Tool! 🛠️
 - 🌱 **Upgrading Skills**: Leveling up in **HTML5 / CSS3 / JavaScript (ES6+)**
 - 💙 **Passion**: Cruising with **ANA** ✈️ & Innovating with **Google** 🌐
+
+</details>
 
 ---
 
@@ -25,7 +43,6 @@
 ---
 
 ### 🛠️ Cockpit Controls (Tech Stack)
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -36,7 +53,6 @@
 ---
 
 ### 📊 Dashboard (GitHub Stats)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poko-chan&show_icons=true&theme=tokyonight" alt="poko-chan's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poko-chan&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
@@ -45,7 +61,6 @@
 ---
 
 ### 📢 Airport Terminal (Connect with me)
-
 <p align="center">
   <a href="https://qiita.com/poko_chan" target="_blank">
     <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
