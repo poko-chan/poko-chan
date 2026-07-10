@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./readme.md">🇯🇵 日本語</a> | <b>🇺🇸 English</b>
+  <a href="./readme.md">🇺🇸 English</a> | <b>🇯🇵 日本語</b> | <a href="./readme.zh.md">🇨🇳 简体中文</a> | <a href="./readme.ko.md">🇰🇷 한국어</a>
 </p>
 
 # 👋 Hi, I'm pokochan!
@@ -14,14 +14,14 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 **Current Project:** Building an SNS Tool 📱
-- 🌱 **Learning:** HTML5, CSS3, and JavaScript (ES6+) ✨
-- 💙 **Favorite Brands:** Big fan of **ANA** ✈️ & **Google** 🌐
+## 🚀 自己紹介
+- 🔭 **現在進行中のプロジェクト:** SNSツールの開発 📱
+- 🌱 **勉強中:** HTML5, CSS3, JavaScript (ES6+) ✨
+- 💙 **大好きなブランド:** **ANA** ✈️ と **Google** 🌐 の大ファンです！
 
 ---
 
-## 🛠️ Tech Stack & Learning
+## 🛠️ スキルと学習ツール
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -31,7 +31,13 @@
 
 ---
 
-## 📈 GitHub Activity & Streak
+## ⌨️ お気に入りのショートカットとコマンド
+- コードを保存: <kbd>Ctrl</kbd> + <kbd>S</kbd>
+- ターミナル: <kbd>git commit -m "Flying High!"</kbd>
+
+---
+
+## 📈 GitHub アクティビティと継続記録
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poko-chan&theme=tokyonight" alt="Activity Graph" width="100%" />
@@ -43,7 +49,7 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 リンク
 
 <p align="left">
   <a href="https://qiita.com/poko_chan" target="_blank">
