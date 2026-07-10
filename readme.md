@@ -28,14 +28,8 @@
 
 ---
 
-## 📐 3D Contribution Map
-<p align="center">
-  <img src="https://github-isometric-3d.vercel.app/api?user=poko-chan" alt="Isometric Calendar" width="100%" />
-</p>
-
----
-
 ## 📈 GitHub Activity & Streak
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poko-chan&theme=tokyonight" alt="Activity Graph" width="100%" />
 </p>
@@ -52,6 +46,14 @@
   <a href="https://qiita.com/poko_chan" target="_blank">
     <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
+</p>
+
+---
+
+## 👾 Just for Fun!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=rect&text=PACMAN&color=000000&fontColor=ffffff&fontSize=1&height=40&animation=blinking" width="100%" />
+  <img src="https://marcosfelipe.dev/github-readme-assets/pacman.gif" width="100%" alt="Pacman Animation" />
 </p>
 
 ---
