@@ -1,7 +1,7 @@
-# 👋 Hi, I'm pokochan! ✈️💙
+# 👋 Hi, I'm pokochan! ✈️🎨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0051A1&width=500&lines=Welcome+to+my+GitHub!;Building+an+SNS+Tool!;Flying+with+code+and+creativity..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4285F4&width=500&lines=Welcome+to+my+GitHub!;Building+an+SNS+Tool!;Powered+by+Google+and+ANA+love...;Flying+high+with+clean+code!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,16 +13,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on **Building an SNS Tool (SNSツールを開発中！)**
 - 🌱 I’m currently learning **HTML5, CSS3, and JavaScript (ES6+)**
-- 💙 Fun fact: **Big fan of ANA (All Nippon Airways) ✈️**
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poko-chan&theme=tokyonight&no-bg=true&margin-w=15" alt="poko-chan's Trophies" />
-</p>
-
----
+- 💙 Favorite Brands: Big fan of **ANA ✈️** & **Google 🌐** ---
 
 ### 🛠️ Tech Stack & Learning
 
