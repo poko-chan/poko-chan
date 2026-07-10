@@ -1,3 +1,7 @@
+<p align="right">
+  <b>🇯🇵 日本語</b> | <a href="./README.en.md">🇺🇸 English</a>
+</p>
+
 # 👋 Hi, I'm pokochan!
 
 <p align="center">
@@ -11,9 +15,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 **Current Project:** Building an SNS Tool 📱
-- 🌱 **Learning:** HTML5, CSS3, and JavaScript (ES6+) ✨
-- 💙 **Favorite Brands:** Big fan of **ANA** ✈️ & **Google** 🌐
+- 🔭 **現在進行中のプロジェクト:** SNSツールの開発 📱
+- 🌱 **勉強中:** HTML5, CSS3, JavaScript (ES6+) ✨
+- 💙 **大好きなブランド:** **ANA** ✈️ と **Google** 🌐 の大ファンです！
 
 ---
 
