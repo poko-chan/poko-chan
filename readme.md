@@ -1,7 +1,7 @@
 # 👋 Hi, I'm pokochan!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4285F4&width=500&lines=Welcome+to+my+GitHub!;Building+an+SNS+Tool!;Powered+by+Google+and+ANA+love...;Flying+high+with+clean+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=24&duration=3000&pause=1000&color=4285F4&width=500&lines=Welcome+to+my+GitHub!;Building+an+SNS+Tool!;Powered+by+Google+and+ANA+love...;Flying+high+with+clean+code!" alt="Typing SVG" />
 </p>
 
 <p align="center">
