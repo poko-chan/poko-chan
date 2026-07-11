@@ -56,3 +56,12 @@
     <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
 </p>
+
+---
+
+## 🐍 My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poko-chan/poko-chan/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poko-chan/poko-chan/output/github-snake.svg">
+  <img alt="GitHub 反応スネーク" src="https://raw.githubusercontent.com/poko-chan/poko-chan/output/github-snake.svg">
+</picture>
