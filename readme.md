@@ -20,6 +20,9 @@
 - 💙 **Favorite Brands:** Big fan of **ANA** ✈️ & **Google** 🌐
 
 ---
+## 🛠️ My Web Apps / Products
+- 📖 **[Study# (Voton Study Sharp)](https://sharp-voton.lovable.app)**
+  - 「学習のすべてを、ひとつに。」をコンセプトにした学習管理Webアプリケーション。
 
 ## 🛠️ Tech Stack & Learning
 
